@@ -1,6 +1,9 @@
 # Drug Design Project
 
-This repository contains scripts and data for protein analysis and drug design workflows.
+This repository contains scripts and data for project "Fragement Based Drug Design of Anthelmintics using Genetic Algorithm"
+
+![image](https://github.com/user-attachments/assets/aa1f8d78-deaa-4169-8f9d-d37394d7f61e)
+
 
 ## Project Structure
 
@@ -35,6 +38,3 @@ This repository contains scripts and data for protein analysis and drug design w
 
 ### Documentation
 - `rcppt.gslides`, `review1.gslides` - Project presentations and reviews
-
-## Usage
-Refer to individual script documentation for specific usage instructions. Main workflow typically starts with PDB processing, followed by analysis and ranking procedures.
