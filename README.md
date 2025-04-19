@@ -36,5 +36,3 @@ This repository contains scripts and data for project "Fragement Based Drug Desi
 - `resultfor3uq9.html`, `resultfor8palpdb.html`, `resultfor8pla.html` - Analysis result visualizations
 - `tophits/` - Directory containing top-scoring results
 
-### Documentation
-- `rcppt.gslides`, `review1.gslides` - Project presentations and reviews
