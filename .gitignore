@@ -1,3 +1,9 @@
 rcppt.gslides
 review1.gslides
 desktop.ini
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+.env/
